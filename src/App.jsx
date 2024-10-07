@@ -4,7 +4,6 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 
-alert("I stop you")
 function App() {
   const [count, setCount] = useState(0)
 
